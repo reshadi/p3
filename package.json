@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "p1": "git+https://github.com/reshadi/p1.git#v1.0.1",
     "p2": "git+https://github.com/reshadi/p2.git#master"
   },
